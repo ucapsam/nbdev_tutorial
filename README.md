@@ -12,7 +12,7 @@ This file will become your README and also the index of your documentation.
 
 Fill me in please! Don't forget code examples:
 
-```python
+```
 for i in range(0,5):
     print(say_hi(i))
 ```
